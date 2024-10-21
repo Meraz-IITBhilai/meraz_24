@@ -30,11 +30,16 @@
 	<title>{data.name} | Meraz '25</title>
 </svelte:head>
 <div class="bodyy">
+	<img class="background" src="/assets/Background_image.png"/>
 	<div class="frame">
 		<div class="top-text">
+			<div class="head">
+				<img src="/assets/Stars.png"/>
 			<h1 class="event-title">
 				{data.name}
 			</h1>
+			<img src="/assets/Stars.png"/>
+			</div>
 		</div>
 		<div class="venue">
 			<div class="text">
@@ -118,21 +123,23 @@
 
 	.bodyy {
 		// background-image: url('/assets/scitech_bg.png');
-		background: linear-gradient(242.28deg, #191b21 -0.41%, rgba(25, 27, 33, 0) 79.12%),
-			linear-gradient(
-				287.93deg,
-				#24262b 0%,
-				rgba(36, 38, 43, 0.9145) 68.72%,
-				rgba(36, 38, 43, 0.714495) 93.62%,
-				rgba(36, 38, 43, 0) 112.6%
-			),
-			linear-gradient(89.15deg, #332d34 0.77%, rgba(51, 45, 52, 0) 106.07%);
+		background-color: #006da409;
 		color: white;
 		padding-top: 5vw;
 		height: 120vh;
 		background-size: cover;
 		background-repeat: no-repeat;
 		font-family: 'Josefin Sans', sans-serif;
+	}
+	.background{
+		position: absolute;
+		top: 0;
+		z-index: -100;
+		height: 120vh;
+		width: 100vw;
+	}
+	.head{
+		display: flex;
 	}
 	.frame {
 		display: flex;
@@ -173,7 +180,7 @@
 		text-transform: uppercase;
 		font-size: 5vh;
 		padding-left: 1vw;
-		font-family: Yusei Magic;
+		font-family: CinzelDecorative;
 		font-size: 36px;
 		font-weight: 400;
 		line-height: 52px;
@@ -192,7 +199,7 @@
 
 	.description-container {
 		min-height: 10vh;
-		font-family: Yusei Magic;
+		font-family: Cinzel Decorative;
 		font-size: 18px;
 		font-weight: 400;
 		line-height: 26px;
@@ -201,7 +208,7 @@
 		margin-top: 2vw;
 	}
 	.key {
-		font-family: Yusei Magic;
+		font-family: CinzelDecorative;
 		font-size: 24px;
 		font-weight: 400;
 		line-height: 35px;
@@ -211,7 +218,7 @@
 		color: #7cc7ff;
 	}
 	.value {
-		font-family: Yusei Magic;
+		font-family: CinzelDecorative;
 		font-size: 16px;
 		font-weight: 400;
 		line-height: 23px;
@@ -258,7 +265,7 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 		color: #fff;
-		font-family: Yusei Magic;
+		font-family: CinzelDecorative;
 		font-size: 30px;
 		font-weight: 400;
 	}
@@ -372,7 +379,7 @@
 		width: 192px;
 		height: 46.5px;
 		border-radius: 7px;
-		font-family: Yusei Magic;
+		font-family: CinzelDecorative;
 		font-size: 24px;
 		font-weight: 400;
 		letter-spacing: 0em;

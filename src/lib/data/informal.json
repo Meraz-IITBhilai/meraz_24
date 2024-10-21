@@ -1,0 +1,68 @@
+[
+	{
+		"id": "valorant",
+		"name": "Valorant",
+		"image": "informals/valorant.webp",
+		"poster": "valorant.webp",
+		"tagline": "",
+		"prizePool": "5000",
+		"mode": "Online",
+		"rulebook": "https://drive.google.com/file/d/1QMtGSaFm5tocRSVO6lnnyBsib71IgOsX/view?usp=sharing",
+		"registerURL": "https://unstop.com/o/4kTJQX5?lb=f5K7puVM",
+		"description": "",
+		"POCs": [
+			{
+				"name": "PRASANTH",
+				"contact": "7337599501"
+			},
+			{
+				"name": "HIMANSHU",
+				"contact": "87705 71371"
+			}
+		]
+	},
+	{
+		"id": "bgmi",
+		"name": "BGMI",
+		"image": "informals/bgmi.webp",
+		"poster": "bgmi.webp",
+		"tagline": "",
+		"prizePool": "5000",
+		"mode": "Online",
+		"rulebook": "https://drive.google.com/file/d/1QMtGSaFm5tocRSVO6lnnyBsib71IgOsX/view?usp=sharing",
+		"registerURL": "https://unstop.com/o/Dc2wiMG?lb=f5K7puVM",
+		"description": "",
+		"POCs": [
+			{
+				"name": "PRASANTH",
+				"contact": "7337599501"
+			},
+			{
+				"name": "HIMANSHU",
+				"contact": "87705 71371"
+			}
+		]
+	},
+	{
+		"id": "freefire",
+		"name": "FreeFire",
+		"image": "informals/freefire.webp",
+		"poster": "freefire.webp",
+		"tagline": "",
+		"prizePool": "5000",
+		"mode": "Online",
+		"rulebook": "https://drive.google.com/file/d/1QMtGSaFm5tocRSVO6lnnyBsib71IgOsX/view?usp=sharing",
+		"registerURL": "https://unstop.com/o/OM4syNp?lb=f5K7puVM",
+		"description": "",
+		"POCs": [
+			{
+				"name": "PRASANTH",
+				"contact": "7337599501"
+			},
+			{
+				"name": "HIMANSHU",
+				"contact": "87705 71371"
+			}
+		]
+	}
+]

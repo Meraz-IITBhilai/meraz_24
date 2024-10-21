@@ -27,26 +27,23 @@
 </script>
 
 <svelte:head>
-	<title>{data.name} | Meraz '24</title>
+	<title>{data.name} | Meraz '25</title>
 </svelte:head>
 <div class="bodyy">
-	<div class="LeftCorner">
-		<LeftCorner icon="LeftCorner" />
-	</div>
 	<div class="frame">
 		<div class="top-text">
 			<h1 class="event-title">
 				{data.name}
 			</h1>
 		</div>
-		<!--<div class="venue">
+		<div class="venue">
 			<div class="text">
-				<p>Event Venue: {data.location}</p>
+				<p>{data.location}</p>
 			</div>
 			<div class="text">
 	<p><u><a href="https://maps.app.goo.gl/YmvSqjx997UZyYMy7"> View in map</a></u></p>
 			</div>
-	</div>-->
+	</div>
 		<div class="main-container">
 			<div class="poster-container">
 				<img alt="not found" class="poster1" src={`/assets/posters/${data.poster}`} border="0" />
@@ -76,11 +73,11 @@
 						<div class="magic">
 							<div on:click={handleClick} class={isClicked ? 'block-1 magic-block' : 'block-1 shaking'}>
 								<img src="/assets/E_Hat.svg" class="hat-img" alt="Hat" /><img
-									src="/assets/E_Hat_Stars.svg"
-									width="93px"
-									class="spark-img"
-									alt="Stars"
-								/><img src="/assets/E_Lights.svg" class="spark-img" alt="Light" />
+								src="/assets/E_Hat_Stars.svg"
+								width="93px"
+								class="spark-img"
+								alt="Stars"
+							/><img src="/assets/E_Lights.svg" class="spark-img" alt="Light" />
 								<p class="money"><span>&#8377;</span>{data.prizePool}</p>
 							</div>
 						</div>
@@ -109,9 +106,6 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="RightCorner">
-		<RightCorner info="RightCorner" />
 	</div>
 </div>
 
@@ -158,7 +152,7 @@
 	.poster1 {
 		max-width: 40vw;
 		max-height: 70vh;
-		border: 5px solid #d7b676;
+		border: 5px solid #7cc7ff;
 		overflow: hidden;
 		object-fit: contain;
 		max-width: 100%;
@@ -185,7 +179,7 @@
 		line-height: 52px;
 		letter-spacing: 0em;
 		text-align: left;
-		color: #ffc367;
+		color: #7cc7ff;
 	}
 
 	.description {
@@ -214,6 +208,7 @@
 		letter-spacing: 0em;
 		text-align: center;
 		text-decoration: underline;
+		color: #7cc7ff;
 	}
 	.value {
 		font-family: Yusei Magic;
@@ -262,7 +257,7 @@
 		top: 40%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		color: #ffc367;
+		color: #fff;
 		font-family: Yusei Magic;
 		font-size: 30px;
 		font-weight: 400;
@@ -387,14 +382,14 @@
 	}
 
 	.reg-btn {
-		background: #ebb460;
+		background: #337cb2;
 		max-width: 40vw;
 	}
 	.rule-btn {
 		max-width: 40vw;
 		color: #fff;
 		background: transparent;
-		border: 1px solid var(--primary);
+		border: 1px solid #464646;
 	}
 	.btn-ani {
 		position: relative;

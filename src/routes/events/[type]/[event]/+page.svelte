@@ -199,7 +199,7 @@
 
 	.description-container {
 		min-height: 10vh;
-		font-family: Cinzel Decorative;
+		font-family: LibreBaskerville;
 		font-size: 18px;
 		font-weight: 400;
 		line-height: 26px;
@@ -208,7 +208,7 @@
 		margin-top: 2vw;
 	}
 	.key {
-		font-family: CinzelDecorative;
+		font-family: LibreBaskerville;
 		font-size: 24px;
 		font-weight: 400;
 		line-height: 35px;
@@ -218,7 +218,7 @@
 		color: #7cc7ff;
 	}
 	.value {
-		font-family: CinzelDecorative;
+		font-family: LibreBaskerville;
 		font-size: 16px;
 		font-weight: 400;
 		line-height: 23px;
@@ -265,7 +265,7 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 		color: #fff;
-		font-family: CinzelDecorative;
+		font-family: LibreBaskerville;
 		font-size: 30px;
 		font-weight: 400;
 	}
@@ -379,8 +379,8 @@
 		width: 192px;
 		height: 46.5px;
 		border-radius: 7px;
-		font-family: CinzelDecorative;
-		font-size: 24px;
+		font-family: LibreBaskerville;
+		font-size: 18px;
 		font-weight: 400;
 		letter-spacing: 0em;
 		text-align: center;

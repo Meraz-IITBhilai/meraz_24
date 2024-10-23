@@ -1,630 +1,608 @@
 [
     {
-        "id":"beyond_sight",
-        "name":"Beyond Sight",
-        "poster":"beyond_sight_final.webp",
-        "registerURL":"https://unstop.com/p/beyond-sights-meraz-40-indian-institute-of-technology-iit-bhilai-921177?lb=i2hLKbm&utm_medium=Share&utm_source=WhatsApp",
+        "id": "beyond_sight",
+        "name": "Beyond Sight",
+        "poster": "Image-not-found.png",
+        "registerURL": "https://unstop.com/p/beyond-sights-meraz-40-indian-institute-of-technology-iit-bhilai-921177?lb=i2hLKbm&utm_medium=Share&utm_source=WhatsApp",
         "rulebook": "https://docs.google.com/document/d/1RFrK8agbzHMEFzsUsk-TTVP94_hx_3j5NRwiUfgwqnM/edit?usp=drive_link",
         "description": "'Beyond Sight' is not just an art competition; it's an immersive experience that transcends the visual realm. In this event, participants will engage in a blind painting challenge where communication becomes the brushstroke and imagination takes center stage. The competition is designed to explore the power of collaboration and the limitless potential of creativity, even in the absence of sight. This is a blind painting event where participants come in pairs, one is the blindfolded artist who puts on a blind fold and picks up the brush, the other is the guide who instructs using words only.",
-        "tagline":"Brushstrokes and Blunders: A Hilarious Art Adventure!",
-        "prizePool": "Goodies",
+        "tagline": "Brushstrokes and Blunders: A Hilarious Art Adventure!",
+        "prizePool": "6000",
         "mode": "Offline",
         "location": "Offline",
         "POCs": [
             {
-                "name": "Abhikya Pillutla",
-                "contact": "7702288129"
+                "name": "Aviral Saxena",
+                "contact": "9755733558"
             },
             {
-                "name": "Hasitha Gorrepati",
-                "contact": "6301303292"
+                "name": "Ashtha priya",
+                "contact": "6204411316"
             }
         ]
     },
     {
-        "id":"luminous_ink",
-        "name":"Luminous Ink",
-        "poster":"luminous_ink_official.webp",
-        "registerURL":"https://unstop.com/p/luminous-ink-meraz-40-indian-institute-of-technology-iit-bhilai-920130",
-        "rulebook": "https://docs.google.com/document/d/1xG6d6rlbBxEKkbgX7U-WDOnNVfVfRNW7CMjIbEX6xJY/edit?usp=drive_link",
-        "description": "The Luminous Ink Event invites participants to illuminate Meraz 4.0 nights with radiant tattoo art using enchanting radium paints. A celebration of creativity and luminescence, this unique competition challenges artists to transform their bodies or their partner's into glowing canvases. In the embrace of the night, participants craft mesmerizing designs that come alive with ethereal radiance. As moonlight bathes Meraz 4.0, these luminous tattoos cast a spell, turning each participant into a living masterpiece. This event transcends a mere competition; it's a vibrant showcase of self-expression, imagination, and the magical fusion of art and radiance, making Meraz 4.0 nights truly unforgettable.",
-        "tagline":"Uncover your hidden glow: A night of luminous, temporary tattoos!",
-        "prizePool": 7000,
+        "id": "attire-spectra",
+        "name": "Attire Spectra",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/18TWtKMpIvA9YCqA44zoLy1VBF4VRRpuxVjG-QcBDbFc/edit?usp=sharing",
+        "description": "Steal the spotlight on the runway in your most extravagant ensemble across the vivid themes: Hollywood Heritage, Country Couture, Fashion Fairytale, and Galaxy Glam!.The focal point is the runway, a long, elevated platform where models walk to display the clothing,while music sets the mood and matches the tone of the collection. Hollywood Heritage- A Hollywood-themed runway draws inspiration from the glitz, glamour, and timeless elegance of Hollywood’s golden age. Country Couture-This theme blends timeless cultural aesthetics with modern design techniques, resulting in a presentation that honors the past while remaining contemporary and luxurious. Fashion Fairytale-It is a dreamy and theatrical experience where the runway transports the audience into an imaginative world of fantasy and elegance. Galaxy Glam-It reflects visions of the future by combining sleek, modern aesthetics with experimental elements, often inspired by science fiction, space exploration, and futuristic cityscapes.",
+        "tagline": "Defy the norm. Redefine fashion",
+        "prizePool": "6000",
         "mode": "Offline",
         "location": "Offline",
         "POCs": [
             {
-                "name": "Prashant Malviya",
-                "contact": "9098130537"
+                "name": "Bonta Aalaya",
+                "contact": "8341145002"
             },
             {
-                "name": "Parth Om Sarvade",
-                "contact": "8390800338"
+                "name": "Vaishnavi Pawar",
+                "contact": "8830724178"
             }
         ]
     },
     {
-        "id":"bridging-the-blanks",
-        "name":"Bridging the Blanks",
-        "poster":"bridging_the_blanks.webp",
-        "registerURL":"https://unstop.com/p/bridging-the-blanks-meraz-40-indian-institute-of-technology-iit-bhilai-920457",
-        "rulebook": "https://docs.google.com/document/d/1JpPBDnNEhG2W2PTcbiYwF2p2XcctB2uXIueo3_-OmX0/edit?usp=drive_link",
-        "description": "Get ready to embark on an artistic journey of unlimited potential with 'Bridging the Blanks,' an exhilarating online art event! As the event kicks off, participants will receive a treasure trove of prompts—all waiting to be transformed into breathtaking visual masterpieces. With an array of prompts at your fingertips, each artist will have the freedom to choose the one that speaks to their soul, igniting their creativity and fueling their imagination. Armed with traditional fine arts mediums, from paintbrushes to pencils, participants will dive headfirst into their chosen prompt, bridging the gap between inspiration and creation. Whether you're drawn to the whimsy of abstract expressionism or the meticulous detail of realism, 'Bridging the Blanks' offers a platform for artists of all styles and skill levels to shine. Join us online for a week of artistic exploration, camaraderie, and the chance to bring your unique vision to life in a world of endless possibilities!",
-        "tagline":"Fill the void, bridge the gap, let your artistic voice clap!",
-        "prizePool": 6000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Nikhil Kumar Shrey",
-                "contact": "9111900797"
-            },
-            {
-                "name": "Talla Sai Surya",
-                "contact": "9346870117"
-            },
-            {
-                "name": "Ayudh Avinash Abhale",
-                "contact": "9168987025"
-            }
-        ]
-    },
-    {
-        "id":"in10sity",
-        "name":"In10sity",
-        "poster":"in10sity.webp",
-        "registerURL":"https://unstop.com/p/in10nsity-meraz-40-indian-institute-of-technology-iit-bhilai-921077",
-        "rulebook": "https://docs.google.com/document/d/1NoI7_7b5Vze17CwAX0EjNbqciiqwVp5UH06O1hz3Mwo/edit?usp=drive_link",
-        "description": "I 'Get ready to ignite the stage at Meraz Fest's electrifying event, 'In10sity'! Gather your dance crew and prepare to dazzle the audience with your dynamic moves. In this exhilarating group dance competition, you'll have the chance to showcase your talent and passion for dance. Whether you're a hip-hop crew, a contemporary ensemble, or a fusion team, In10sity welcomes all styles and genres. Bring your energy, creativity, and synchronized choreography as you compete for the spotlight. Don't miss this opportunity to shine and make memories that will last a lifetime. Join us at Meraz Fest and let your in10sity shine through! '",
-        "tagline":"Step It Up: Dance Beyond Boundaries!",
-        "prizePool": 6000,
-        "mode": "Offline",
-        "location": "Offline (Main Stage)",
-        "POCs": [
-            {
-                "name": "Ayush Patel",
-                "contact": "8081612319"
-            },
-            {
-                "name": "Bhoomi Goyal",
-                "contact": "9205908661"
-            }
-        ]
-    },
-    {
-        "id":"dance-solitaire",
-        "name":"Dance Solitaire",
-        "poster":"dance_solitaire.webp",
-        "registerURL":"https://unstop.com/p/dance-solitaire-meraz-40-indian-institute-of-technology-iit-bhilai-920757",
-        "rulebook": "https://docs.google.com/document/d/1pgkGSjBZh9OJuF4cG3NuXOoJrhjmn9Y_tbIhWmVqQCM/edit?usp=drive_link",
-        "description": "Dance Solitaire  'The solo dance competition of Meraz- DANCE SOLITAIRE is a thrilling showcase of individual artistic expression and talent, where participants captivate the audience with their unique choreography and emotive performances. Dancers, adorned in dazzling costumes, display a fusion of creativity, technique, and passion as they interpret music through their movements. The competition celebrates diversity in dance styles, from contemporary and hip-hop to classical forms, highlighting the dancer's skill and storytelling ability.   It contains 3 rounds: 1. Online Round ( For selection for stage round ) 2. Stage Rounds      1. Pre-Prepared Choreo      2. Prop Usage Round  Let's come together and experience this exhilarating event, uniting performers and spectators in the joy of dance'",
-        "prizePool": 5000,
-        "mode": "Offline",
-        "location": "Offline (Main Stage)",
-        "POCs": [
-            {
-                "name": "Bubli Brahma",
-                "contact": "6002846132"
-            },
-            {
-                "name": "Xaumya Gopal",
-                "contact": "7692917497"
-            }
-        ]
-    },
-    {
-        "id":"virtual-groove",
-        "name":"Virtual Groove",
-        "poster":"virtual_groove.png",
-        "registerURL":"https://unstop.com/p/virtual-groove-meraz-40-indian-institute-of-technology-iit-bhilai-920782",
-        "rulebook": "https://docs.google.com/document/d/1KmBOdQsRgbU3WNki77mG9daquUI1nlXyPPC5SR17mSY/edit?usp=drive_link",
-        "description": " 'Get ready to break barriers and ignite the virtual stage with Meraz. Distance is no longer a restriction as dancers from all over come together to showcase their talent and passion. Join us for an unforgettable celebration of dance and creativity with 'Virtual Groove' featuring two captivating rounds! 1. Preliminary Showcase 2. Emotion Ensemble In the Preliminary Showcase, dancers can unleash their creativity by selecting any dance style and song and showcasing their skills. After evaluation, the excitement continues with the Emotion Ensemble, where selected participants can explore diverse dance forms and emotions, delivering a single take performance while portraying an emotion of their choice. Get ready to dazzle the virtual stage with your talent and passion! '",
-        "tagline":"Dance Beyond Distance, Groove Online.",
-        "prizePool": 5000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Rishika Malve",
-                "contact": "9420658024"
-            },
-            {
-                "name": "Vanshika",
-                "contact": "9352641982"
-            }
-        ]
-    },
-    {
-        "id":"euphony",
-        "name":"Euphony",
-        "poster":"euphony.webp",
-        "registerURL":"https://unstop.com/p/euphony-the-online-singing-competition-meraz-40-indian-institute-of-technology-iit-bhilai-920683",
-        "rulebook": "",
-        "description": "Embark on a musical journey from the comfort of your own space with our Online Singing Competition-EUPHONY! This virtual spectacle invites talented soloists to showcase their vocal brilliance. Immerse yourself in a diverse array of musical genres and witness breathtaking performances, all delivered from the heart. The digital stage is set to come alive with raw talent, each note resonating through screens. Engage with the competition, cheer for your favorites, and experience the enchantment of music brought directly to your fingertips. Don't miss this opportunity to celebrate the harmony of voices in our online extravaganza!",
-        "tagline":"Where screen transform into stages!!",
-        "prizePool": 5000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Konduri Naga Lakshmi Rekha",
-                "contact": "9505974686"
-            },
-            {
-                "name": "Sanidhya Bharti",
-                "contact": "8103474182"
-            },
-            {
-                "name": "Jashraj",
-                "contact": "9490607603"
-            }
-        ]
-    },
-    {
-        "id":"surreal",
-        "name":"SurReal",
-        "poster":"surreal.webp",
-        "registerURL":"https://unstop.com/p/surreal-meraz-40-indian-institute-of-technology-iit-bhilai-920849",
-        "rulebook": "https://docs.google.com/document/d/1HctLJt5zzTKxO1pV8wRMHV-b1QDZ-kDIakj1gDEHwbk/edit?usp=drive_link",
-        "description": "The music club of IIT Bhilai, Swara, proudly presents the 4th edition of Sur-Real, a solo singing competition for aspiring singers to showcase their talent and compete for exciting prizes. This event promises an evening filled with soul-stirring melodies, passionate performances, and a celebration of the raw and unbridled talent that resides within each participant. So, whether you're a seasoned music enthusiast or a casual listener, join us for an unforgettable evening of music, passion, and discovery. 'SUR-REAL' is not just a competition; it's a celebration of the incredible power that lies within the human voice. Get ready to be moved, inspired, and amazed as our soloists take you on a musical journey like no other!",
-        "tagline":"Soulful sur, rhythmic taal",
-        "prizePool": 6000,
-        "mode": "Offline",
-        "location": "Offline (Main Stage)",
-        "POCs": [
-            {
-                "name": "Sayan Datta",
-                "contact": "8875210640"
-            },
-            {
-                "name": "Darsh Mahajan",
-                "contact": "7987056693"
-            },
-            {
-                "name": "Joy",
-                "contact": "9100427947"
-            }
-        ]
-    },
-    {
-        "id":"shredded-battle-of-bands",
-        "name":"SHREDDED:Battle of Bands",
-        "poster":"battle_of_bands.webp",
-        "registerURL":"https://unstop.com/p/shredded-battle-of-the-bands-meraz-40-indian-institute-of-technology-bhilai-iit-bhillai-920781",
-        "rulebook": "https://docs.google.com/document/d/1Kt0l5y3ArfzQBHMR5KKXzU1rDkqnyVJNLovmIi3Pl90/edit?usp=drive_link",
-        "description": "Get ready for an electrifying clash of musical titans in our Battle of Bands Competition-SHREDDED! Witness the stage ignite as dynamic bands from diverse genres go head-to-head in a fierce musical showdown. Each group will unleash their unique sound, creating a sonic landscape that transcends boundaries. From soulful ballads to high-energy anthems, the competition promises an exhilarating display of musical prowess. Amplify the excitement by tuning in, supporting your favorite bands, and experiencing the adrenaline of live music. Join us for an unforgettable night where the battle isn't just for victory but for the sheer love of rocking the stage!",
-        "tagline":"Where Music Sparks the Fight!",
-        "prizePool": 12000,
-        "mode": "Offline",
-        "location": "Offline (Main Stage)",
-        "POCs": [
-            {
-                "name": "Aditya Bajpai",
-                "contact": "6394390409"
-            },
-            {
-                "name": "Govind More",
-                "contact": "8889477989"
-            },
-            {
-                "name": "Himanshu Soumya",
-                "contact": "7061183502"
-            }
-        ]
-    },
-    {
-        "id":"cinemeraz",
-        "name":"CinéMeraz",
-        "poster":"cinemeraz.jpg",
-        "registerURL":"https://unstop.com/o/du4pglv?lb=YUJYC8ba",
-        "rulebook": "",
-        "description": "CinéMeraz is all about capturing special moments of “ Meraz”  in your smartphone/camera while enjoying them. This is a one-person event in which the participant has to record the short clips of “Meraz” right from the beginning of the fest, then at last have to submit a compiled video made up of these short clips.",
-        "tagline":"CinéMeraz: Unleash Your Meraz Moments, Capture. Connect. Compile.",
-        "prizePool": 7000,
-        "mode": "Offline",
+        "id": "dance-solitaire",
+        "name": "Dance Solitaire",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/15vVuiX1-2b9IWWlvbRzNXTbABbAee3G4zsAt80ZfHwg/edit?usp=sharing",
+        "description": "'Dance Solitaire' The solo dance competition of Meraz- DANCE SOLITAIRE is a thrilling showcase of individual artistic expression and talent, where participants captivate the audience with their unique choreography and emotive performances. Dancers, adorned in dazzling costumes, display a fusion of creativity, technique, and passion as they interpret music through their movements. The competition celebrates diversity in dance styles, from contemporary and hip-hop to classical forms, highlighting the dancer's skill and storytelling ability. .",
+        "tagline": "Solo Dance: Because Who Needs a Partner When You Can Steal the Show Alone !",
+        "prizePool": "5000",
+        "mode": "Online + Offline",
         "location": "Offline",
         "POCs": [
-            {
-                "name": "Harsh Meena",
-                "contact": "7611088018"
-            },
-            {
-                "name": "Sahil Atak",
-                "contact": "8007059076"
-            }
-        ]
-    },
-    {
-        "id":"sus",
-        "name":"SUS - Shot Ur Story",
-        "poster":"sus.webp",
-        "registerURL":"https://unstop.com/p/creatacine-meraz-40-indian-institute-of-technology-bhilai-iit-bhillai-920381",
-        "rulebook": "https://docs.google.com/document/d/1LYZs7xRl2aVjXUO3hzBbf_lIi43fdYQbr26qA3l0cIg/edit?usp=drive_link",
-        "description": "This will be an open-to-all contest as we will be accepting online submissions of short movies through a Google form.",
-        "tagline":"Embark on a Cinematic Odyssey: Craft Your Narrative Through the Lens",
-        "prizePool": 12000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Harshit Kumawat",
-                "contact": "9352914062"
-            },
-            {
-                "name": "Yuvraj Mandrah",
-                "contact": "8962566701"
-            }
-        ]
-    },
-    {
-        "id":"dejavu",
-        "name":"Déjà vu",
-        "poster":"dejavu.jpg",
-        "registerURL":"https://unstop.com/events/deja-vu-meraz-40-indian-institute-of-technology-bhilai-iit-bhillai-920136?lb=YUJYC8ba",
-        "rulebook": "",
-        "description": "This will be an open-to-all contest as we will be accepting online submissions of a small segment from a movie or web series based on the theme provided.",
-        "tagline":"Wait a minute! I've seen this before...",
-        "prizePool": 7000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Rajeev Goel",
-                "contact": "9307304394"
-            },
-            {
-                "name": "Uttkrisht Chowksey",
-                "contact": "6268533675"
-            }
-        ]
-    },
-    {
-        "id":"melas-quiz",
-        "name":"MELAS Quiz",
-        "poster":"melas.webp",
-        "registerURL":"https://unstop.com/p/melas-quiz-meraz-40-indian-institute-of-technology-iit-bhilai-920314",
-        "rulebook": "https://docs.google.com/document/d/1rLn2ss9bvD5PK-cAIuSQI_ocChPx4S0re6RfRZn_UKA/edit?usp=drive_link",
-        "description": "Explore the diverse realms of human creativity and passion in this quiz encompassing Music, Entertainment, Literature, Arts, and Sports. Test your knowledge across cultural dimensions, from identifying iconic melodies and literary masterpieces to recognizing celebrated works of art and memorable moments in sports history. Engage with questions that span the spectrum of human expression, from the harmonies of music to the thrill of sports competitions. Whether you're a culture connoisseur or a sports enthusiast, this quiz promises an entertaining journey through the rich tapestry of human achievement and creativity in the realms of music, entertainment, literature, arts, and sports.",
-        "tagline":"Sawaalo ka MELA",
-        "prizePool": 9000,
-        "mode": "Offline",
-        "location": "Offline",
-        "POCs": [
-            {
-                "name": "Koosh Gupta",
-                "contact": "8250213794"
-            }
-        ]
-    },
-    {
-        "id":"general-quiz",
-        "name":"General Quiz",
-        "poster":"general_quiz.webp",
-        "registerURL":"https://unstop.com/p/general-quiz-meraz-40-indian-institute-of-technology-iit-bhilai-920175?lb=2Mu4FyV",
-        "rulebook": "https://docs.google.com/document/d/1rWwUzit9Rnp3D857Tzg6gr2ZYOR7IU6_iPzfhf-rdFg/edit?usp=drive_link",
-        "description": "  Dive into the diverse world of knowledge with our General Quiz, a captivating challenge that spans a multitude of subjects. From science and history to pop culture and current events, this quiz is designed to test your broad understanding of the world around you. Explore questions that touch on various domains, keeping you on your toes with a mix of intriguing facts and thought-provoking inquiries. Whether you're a trivia enthusiast or just curious about the world, this General Quiz is an engaging way to broaden your knowledge and have fun while doing it. Get ready for a journey through the vast landscape of general knowledge!",
-        "tagline":"Explore, Engage, Excel in the ultimate general quiz",
-        "prizePool": 9000,
-        "mode": "Offline",
-        "location": "Offline",
-        "POCs": [
-            {
-                "name": "Uday Bhardwaj",
-                "contact": "7668310017"
-            }
-        ]
-    },
-    {
-        "id":"nsfw-quiz",
-        "name":"NSFW quiz",
-        "poster":"nsfw.webp",
-        "registerURL":"https://unstop.com/p/nsfw-quiz-meraz-40-indian-institute-of-technology-iit-bhilai-920710",
-        "rulebook": "https://docs.google.com/document/d/1XsNQo5i-9pZayAI8KnOJaB6vG9AdDsrYFnUCJlSWb0U/edit?usp=drive_link",
-        "description": "Explore challenging and edgy terrain with our NSFW Quiz, delving into questions that push the boundaries of traditional content. This quiz navigates through adult themes, humor, and unconventional knowledge, making it suitable for a mature audience seeking an unconventional and entertaining experience. Test your wits on topics that spark curiosity and elicit a playful exploration of subjects typically considered outside the norm. This NSFW Quiz offers a unique and engaging opportunity for adults to embrace a lighthearted yet risqué journey through questions that add a touch of spice to the traditional quiz format.",
-        "tagline":"Do not peek👀",
-        "prizePool": 9000,
-        "mode": "Offline",
-        "location": "Offline",
-        "POCs": [
-            {
-                "name": "Shreyash Khairnar",
-                "contact": "9405835389"
-            },
-            {
-                "name": "Roshan Mishra",
-                "contact": "7488247559"
-            }
-        ]
-    },
-    {
-        "id":"phantom-ui-competition",
-        "name":"Phantom - UI Competition ",
-        "poster":"phantom.webp",
-        "registerURL":"https://unstop.com/p/phantom-uiux-design-event-meraz-40-indian-institute-of-technology-iit-bhilai-920400",
-        "rulebook": "",
-        "description": "Phantom is an annual UI/UX Design event that challenges participants to showcase their creativity and innovation in designing user interfaces. This year's theme is centered around creating a Task Management App that caters to both personal and professional users. The participants are expected to design an app that enhances productivity, simplifies task organization, and provides an exceptional user experience across various devices.",
-        "tagline":"",
-        "prizePool": 6000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Hemanth Kumar Reddy",
-                "contact": "9398481212"
-            },
-            {
-                "name": "Ravinder Sharma",
-                "contact": "9717503220"
-            }
-        ]
-    },
-    {
-        "id":"artvile",
-        "name":"Artvile - Illustrator competition ",
-        "poster":"artville.webp",
-        "registerURL":"https://unstop.com/p/artville-meraz-40-indian-institute-of-technology-iit-bhilai-920451",
-        "rulebook": "https://docs.google.com/document/d/1_oZx5O7jO_oO1jdBrWpe34ZpV6vA3M4xVQjd9ndd7ug/edit?usp=drivesdk",
-        "description": "Are you an art lover ? Here’s the opportunity for you to show all your creativity through illustrations. Meraz 4.0 provides you a platform to be creative and bag a lot of prizes. Just be Creative!",
-        "tagline":"Carefully disguised as a responsible adult.",
-        "prizePool": 5000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Talla Sai Surya",
-                "contact": "9346870117"
-            },
-            {
-                "name": "Sankalp Raj",
-                "contact": "9693266654"
-            }
-        ]
-    },
-    {
-        "id":"murder-mystery",
-        "name":"Murder Mystery",
-        "poster":"murder_mystery.webp",
-        "registerURL":"https://unstop.com/p/murder-mystery-meraz-40-indian-institute-of-technology-iit-bhilai-921135",
-        "rulebook": "https://docs.google.com/document/d/172szki-WTVn26cBgcu1kH87KHuVoAJG8iJcInk280lo/edit?usp=drive_link",
-        "description": "A murder mystery is a themed event where there are fictional characters in a fictional story. The Participants will then work together to solve a fictitious murder which occurs during the event. Most of the characters are gray. They are all suspects of the murder and have to be investigated by the participating teams to solve the mystery. Characters can’t lie but misleads the participants in different ways.",
-        "tagline":"Bringing out the Sherlock Holmes in you🧐",
-        "prizePool": 7000,
-        "mode": "Offline",
-        "location": "Offline",
-        "POCs": [
-            {
-                "name": "Adarsh Tiwari",
-                "contact": "9305855032"
-            },
-            {
-                "name": "Yuvraj Mandrah",
-                "contact": "8962566701"
-            },
-            {
-                "name": "Koosh Gupta",
-                "contact": "8250213794"
-            },
             {
                 "name": "Prince Patidar",
                 "contact": "7223862370"
             },
             {
-                "name": "Nidhi Singh",
-                "contact": "7060228450"
+                "name": "sanjani Kumari",
+                "contact": "6026575101 "
             }
         ]
     },
     {
-        "id":"pukaar",
-        "name":"Pukaar",
-        "poster":"pukaar.jpg",
-        "registerURL":"https://unstop.com/events/pukaar-meraz-40-indian-institute-of-technology-iit-bhilai-919223",
-        "rulebook": "https://docs.google.com/document/d/1iPkdnLNS3u0tDtMYBiilJs9vszi0Ssy7iwuW5ovtOzo/edit?usp=drive_link",
-        "description": "Experience the power of street theater at Meraz Fest in IIT Bhilai with 'Pukaar'. This nukkad natak event is more than just a performance; it's a resonant call for societal transformation. Through gripping narratives and impassioned performances, 'Pukaar' delves into the heart of social issues, igniting conversations and inspiring action. Join us as we explore the complexities of human existence, from tales of injustice to stories of resilience and hope. Let your voice merge with the chorus of change as we unite in our quest for a brighter, more inclusive future. 'Pukaar' beckons you to listen, to reflect, and to act.",
-        "tagline":"Baat Niklegi To Phir, Door Talak Jaayegi",
-        "prizePool": 15000,
+        "id": "surreal",
+        "name": "SurReal",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1KO9mCrL-JGZ7bYrX6YBsChH9-l-7xPunJElMS3KsR18/edit?usp=sharing",
+        "description": "Step into a world where melody meets magic at Sur-Real, the ultimate solo singing competition of MERAZ. Whether you’re a rising star or a seasoned performer, this is your chance to mesmerize the crowd with your voice. Feel the rhythm, embrace the spotlight, and let your music take center stage. It’s not just a performance—it’s an unforgettable experience!",
+        "tagline": "Unplugged Vibes, Unmatched Voices",
+        "prizePool": "7000",
+        "mode": "Offline+Online",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Ankit Rath",
+                "contact": "9304094370"
+            },
+            {
+                "name": "Shashank Yadav",
+                "contact": "8817877625"
+            }
+        ]
+    },
+    {
+        "id": "luminous_ink",
+        "name": "luminous ink: Ignite the night",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1xn7b-HSwIq5SQIqi585Lld0eQHVPzZKn/edit?usp=drivesdk&ouid=110739194655782346005&rtpof=true&sd=true",
+        "description": "The luminous ink event is a competition in which participants will be making tattoo arts on their own or partner’s body using radium paints. The challenge is to show creativity and aesthetics and spread the luminosity of glowing tattoos during night.",
+        "Tagline": " Ink the Night, Glow with Desire—Unleash Your Radiant Art!",
+        "prizePool": "4500",
         "mode": "Offline",
         "location": "Offline",
         "POCs": [
             {
-                "name": "Satish Paswan",
-                "contact": "7007342015"
+                "name": "Aditya Jha",
+                "contact": "743987974"
             },
             {
-                "name": "Venkat Mohit",
-                "contact": "9014168687"
-            },
-            {
-                "name": "Anil Kumar Mandal",
-                "contact": "9523484127"
+                "name": "Bysani Charanya",
+                "contact": "8985516727"
             }
         ]
     },
     {
-        "id":"photo-of-the-fest-candid-edition",
-        "name":"Photo Of the Fest - Candid Edition",
-        "poster":"photo_of_the_fest.webp",
-        "registerURL":"https://unstop.com/p/photo-of-the-fest-candid-edition-meraz-40-indian-institute-of-technology-iit-bhilai-920402",
-        "rulebook": "https://docs.google.com/document/d/14_XENskXv27joZezOaiN8O3f9Etotme-F8cRsqmMhP8/edit?usp=drive_link",
-        "description": "an immersive photography event capturing spontaneous moments and genuine emotions. Unleash your creativity, explore candid shots, and celebrate the beauty of unposed moments. Whether you're a seasoned photographer or a casual enthusiast, this event is your canvas to capture life's unscripted stories through the lens",
-        "tagline":"Unveil Life's Unscripted Beauty Through Your Lens",
-        "prizePool": 6000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Aishna",
-                "contact": "9259345788"
-            },
-            {
-                "name": "Chiranjeevi",
-                "contact": "8328576109"
-            }
-        ]
-    },
-    {
-        "id":"online-theme-photography",
-        "name":"Online Theme Photography",
-        "poster":"theme_based_photography.webp",
-        "registerURL":"https://unstop.com/p/online-theme-photography-meraz-40-indian-institute-of-technology-iit-bhilai-920378",
-        "rulebook": "https://docs.google.com/document/d/1cAElgG8KitliAG1XXtnWNgB8Ya8lMjTfVvdPfV9qT34/edit?usp=drive_link",
-        "description": "Participate  for a captivating virtual experience where participants can showcase their unique perspectives on the given theme",
-        "tagline":"Capture, Conquer, Clasp rewards",
-        "prizePool": 6000,
-        "mode": "Online",
-        "location": "Online",
-        "POCs": [
-            {
-                "name": "Vivek",
-                "contact": "9125423203"
-            },
-            {
-                "name": "Nayan",
-                "contact": "8233823011"
-            }
-        ]
-    },
-    {
-        "id":"shutter-quest",
-        "name":"Shutter Quest",
-        "poster":"shutter_quest.webp",
-        "registerURL":"https://unstop.com/p/shutter-quest-meraz-40-indian-institute-of-technology-iit-bhilai-920435",
-        "rulebook": "https://docs.google.com/document/d/16qQyLNvfezDojtn8zv2RrxmgKdNI99xuPmCl7206qS0/edit?usp=drive_link",
-        "description": "Participants will draw themes or specific items randomly, and the challenge is to capture a stunning photo inspired by their chosen element. It's a journey of spontaneity and creativity, turning ordinary moments into extraordinary images",
-        "tagline":"",
-        "prizePool": 9000,
+        "id": "art_hunt",
+        "name": "Art Hunt",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1SaOLkhnHCHHyCeDna65Hk4rZNOhNLXQDt5gnYMU6Rvo/edit?usp=drive_link",
+        "description": "Embark on an exciting Art Hunt at our college fest! This creative treasure hunt will lead you through art-themed clues, from famous artworks to artistic techniques. Solve puzzles and explore the campus as you unlock each clue. Participate in teams, race to find the final masterpiece and claim victory!",
+        "tagline": " Unlock the clues, Discover the art, Claim the treasure!",
+        "prizePool": "4500",
         "mode": "Offline",
         "location": "Offline",
         "POCs": [
             {
-                "name": "Animesh Singh",
-                "contact": "9021894664"
+                "name": "Lakshay Gupta",
+                "contact": " 9911118016"
             },
             {
-                "name": "Vedansh Kapoor",
-                "contact": "8619130667"
+                "name": "Jiya Mehta",
+                "contact": "7990195809"
             }
         ]
     },
     {
-        "id":"mun",
-        "name":"MUN",
-        "poster":"mun.webp",
-        "registerURL":"https://unstop.com/p/mun-where-the-future-leaders-of-the-world-meet-meraz-40-indian-institute-of-technology-iit-bhilai-920415",
-        "rulebook": "https://docs.google.com/document/d/1Zu-nxf2ROSEBRdhP4fj5ozUYVWIul1-GWWVApuFJhgk/edit?usp=drive_link",
-        "description": "Model United Nations (MUN) aims to replicate the United Nations, with students representing different countries to solve world issues. We will be  hosting two committees:  United Nations Security Council: Agenda - Israeli-Palestine Conflict United Nations Human Rights Council: Agenda - Same sex marriage should be legalised Duration of each committee is 1 hr. Registrations can be done individually or in teams of 2",
-        "tagline":"Where The Future Leaders of the World Meet",
-        "prizePool": 10000,
-        "mode": "Offline",
-        "location": "Offline",
-        "POCs": [
-            {
-                "name": "Nidhi Singh",
-                "contact": "7060228450"
-            },
-            {
-                "name": "Sreya Chitluru",
-                "contact": "7981671616"
-            }
-        ]
-    },
-    {
-        "id":"poetry-writing",
-        "name":"Poetry Writing",
-        "poster":"poetry_writing.webp",
-        "registerURL":"https://unstop.com/p/hindi-poetry-writing-kalam-ko-kehne-do-meraz-40-indian-institute-of-technology-iit-bhilai-920409",
-        "rulebook": "https://docs.google.com/document/d/1N0q_DIc_fm48HaDO70A6iLtoeu0RRyrNy0j9LDgoOOM/edit?usp=drive_link",
-        "description": "Online Hindi poetry writing competition where  participants have to write a romantic  poem in hindi  with restrictions on some cliché words which are generally used in romantic poetry, mentioned in the rulebook. One participant can submit only one pdf file  within the given deadline.  Any kind of  profanity is strictly prohibited. Any entry not following the rule will be disqualified",
-        "tagline":"Kalam ko Kahne do",
-        "prizePool": 4000,
+        "id": "bridging-the-blanks",
+        "name": "Bridging the blanks",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1RDWTcAu1gmz4FUGdSWBPO2bhPwBLWCDJ/edit?usp=sharing&ouid=110222133612327047124&rtpof=true&sd=true",
+        "description": "In \"Bridging the Blanks,\" participants will be provided with incomplete prompts and tasked with using their imagination to complete them through visual artwork. This event is a showcase of creativity and the power of artistic interpretation.",
+        "tagline": "Unleash your imagination,Ignite your creation!",
+        "prizePool": "4500",
         "mode": "Online",
         "location": "Online",
         "POCs": [
             {
-                "name": "Koosh Gupta",
-                "contact": "8250213794"
-            },
-            {
-                "name": "Kriti Arora",
-                "contact": "9109623503"
+                "name": "Chetan Rathod",
+                "contact": "6353770603"
             }
         ]
     },
     {
-        "id":"anime-review",
-        "name":"Anime review",
-        "poster":"anime_review.webp",
-        "registerURL":"https://unstop.com/p/anime-review-where-otakus-gather-to-geek-out-meraz-40-indian-institute-of-technology-iit-bhilai-920418?lb=wzv0gOa8",
-        "rulebook": "https://docs.google.com/document/d/17P4eTa2GG751qdRHzPKLI_V8qoBKCvBUzUxF1T4hSJg/edit?usp=drive_link",
-        "description": "online Anime Review Writing  competition where participants have to write a review on any of their favourite animes within the given word limits. Participants can give review on plot, characters, moral and any aspect of the anime. One participant per team.  One participant can submit only one pdf file  within the given deadline.",
-        "tagline":"That's how most idiots screw upscrew up",
-        "prizePool": 4000,
+        "id": "photo-of-the-fest-candid-edition",
+        "name": "Photo of the Fest",
+        "poster": "Image-not-found.png",
+        "registerURL": "",
+        "rulebook": "https://docs.google.com/document/d/14_XENskXv27joZezOaiN8O3f9Etotme-F8cRsqmMhP8/edit?usp=sharing",
+        "description": "'The Pixel Snappers proudly presents \"Photo of the Fest:CANDID EDITION\" as a featured event in Meraz 5.0, the annual techno-cultural fest of IIT Bhilai.\nIt is an immersive photography event capturing spontaneous moments and genuine emotions. Unleash your creativity, explore candid shots, and celebrate the beauty of unposed moments. Whether you are a seasoned photographer or a casual enthusiast, this event is your canvas to capture life's unscripted stories through a lens and describe it in your words.",
+        "tagline": "Freeze the Moment, Frame the Story – Capture Life's Unscripted Beauty!",
+        "prizePool": "4500",
+        "mode": "online",
+        "location": "online",
+        "POCs": [
+            {
+                "name": "Aditya Yadav",
+                "contact": "7470380899"
+            },
+            {
+                "name": "Krish Raghuwanshi",
+                "contact": "7024975399"
+            }
+        ]
+    },
+    {
+        "id": "promptopia",
+        "name": "Promptopia",
+        "poster": "Image-not-found.png",
+        "registerURL": "",
+        "rulebook": "https://docs.google.com/document/d/1TDLhqGVgDm7KvotKaUhhM0X-Nw_we1ic2Fb2W-t5YCA/edit?usp=sharing",
+        "description": "Promptopia is a prompt writing challenge where participants are presented with a variety of intriguing prompts. Each participant selects one prompt and crafts a unique, imaginative piece based on it. To add an extra twist, bonus elements are provided daily, which participants can incorporate into their work to enhance their creativity and storytelling.",
+        "tagline": "From a Single Spark, a Story Ignites!",
+        "prizePool": "4500",
         "mode": "Online",
         "location": "Online",
         "POCs": [
             {
-                "name": "Shivangi Gaur",
-                "contact": "9571068884"
+                "name": "Akshat Gupta",
+                "contact": "9432443604"
             },
             {
-                "name": "Kriti Arora",
-                "contact": "9109623503"
+                "name": "Ashutosh Kumar Jha",
+                "contact": "9051042158"
             }
         ]
     },
     {
-        "id":"escape-room",
-        "name":"Escape Room",
-        "poster":"escapeRoom.webp",
-        "registerURL":"https://unstop.com/p/escape-room-abandoned-hostel-room-meraz-40-indian-institute-of-technology-iit-bhilai-920637?lb=ow2mvQfj&utm_medium=Share&utm_source=shortUrl",
-        "rulebook": "https://docs.google.com/document/d/1P7ZIz_JnRTGy7Vab6OjEkUdLR-Rhs8EpGvkfkE5KE2w/edit?usp=drive_link",
-        "description": "Welcome to the Abandoned Hostel, a chilling setting where the lines between reality and imagination blur. As you step into this immersive escape room experience, you'll find yourself transported to a forgotten world where the echoes of the past haunt every corner. This escape room is designed to raise awareness about mental health issues and encourage empathy and understanding towards those who struggle with them. It's intended as an immersive experience to provoke thought and discussion while providing an entertaining challenge for participants.",
-        "tagline":"",
-        "prizePool": 5000,
-        "mode": "Offline",
-        "location": "Offline",
+        "id": "meme_o_rama",
+        "name": "Meme-O-Rama",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/14xK9HE_a6LNX9aaBugSqYDgKvwK_eSWvVReglCrwaqg/edit?usp=sharing",
+        "description": "Meme-O-Rama is an online Meme competition where participants create and submit memes based on some specific themes. Participants can compete individually or in small teams, creating original memes that adhere to specific guidelines. Memes are posted on an Instagram page. They are judged based on creativity, relevance to the theme, and audience engagement. The top three memes are awarded prizes based on a combination of judges' scores and public reactions.",
+        "tagline": "Meme it to Win it!",
+        "prizePool": "4500",
+        "mode": "Online",
+        "location": "Online",
         "POCs": [
             {
-                "name": "Shweta Kesharwani",
-                "contact": "62325 62932"
+                "name": "Aditya Rehpade",
+                "contact": "9168290356"
             },
             {
-                "name": "Soni Kumari",
-                "contact": "62008 16214"
-            },
-            {
-                "name": "Abhigya Rangari",
-                "contact": "89998 75287"
-            },
-            {
-                "name": "Gaurav Yogi",
-                "contact": "63769 10782"
+                "name": "Rishita Pandey",
+                "contact": "7067640892"
             }
         ]
     },
     {
-        "id":"attire-spectra",
-        "name":"Attire Spectra",
-        "poster":"attire_spectra.webp",
-        "registerURL":"https://unstop.com/p/escape-room-abandoned-hostel-room-meraz-40-indian-institute-of-technology-iit-bhilai-920637?lb=ow2mvQfj&utm_medium=Share&utm_source=shortUrl",
+        "id": "shutter-quest",
+        "name": "Shutter Quest",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "Shutter Quest MERAZ 5.0",
+        "description": "Step into the world of creativity and storytelling with Shutter Quest , the ultimate photography challenge for visionaries and enthusiasts alike. In this unique event, participants are handed a decor item or a theme, and tasked with capturing its essence in the most captivating way possible, your mission is to weave a visual narrative around it, using light, angles, and your imagination.",
+        "tagline": " Capture the Best, Conquer the Quest.",
+        "prizePool": "4500",
+        "mode": "Offline",
+        "location": "TBA",
+        "POCs": [
+            {
+                "name": "Tanishq Gupta",
+                "contact": "8955947415"
+            },
+            {
+                "name": "Laxman Patel",
+                "contact": "7828942002"
+            }
+        ]
+    },
+    {
+        "id": "online-theme-photography",
+        "name": "Online Theme Photography",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": " https://docs.google.com/document/d/1KNixplETyw1NpqFFPGI1RKtoI_-aF0_FOXi4bB4pFgA/edit?usp=sharing ",
+        "description": "This exciting online theme photography event focuses on the beauty of silhouettes and the intrigue of abstract art. Open to photographers of all skill levels, the event encourages participants to explore light and shadow while experimenting with colors, shapes, and textures. Prizes will be awarded for outstanding submissions, encouraging artistic expression and innovation! ",
+        "tagline": "Unveiling Perspectives: Explore the Dance of Light and Shadow in Silhouettes and Abstract Artistry",
+        "prizePool": "6000",
+        "mode": "Online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "Ayush Raj",
+                "contact": "7759051325"
+            },
+            {
+                "name": "Krishna Jhanwar",
+                "contact": "8591565932"
+            }
+        ]
+    },
+    {
+        "id": "euphony",
+        "name": "Euphony",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1TRlmlMbvV7jHT6rLykyGhFHmvyg-Kgtz/edit",
+        "description": "The online singing competition, to encourage singers and recognize their talents. Don't let your fear of the stage suppress your talent. You can now show off your Vocal skills and compete for recognition on social media platforms by participating.",
+        "tagline": "Your Screen is Your Stage, Step Into the Spotlight!",
+        "prizePool": "4500",
+        "mode": "online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "Kinshuk Gupta",
+                "contact": "9479003023"
+            },
+            {
+                "name": "Bammidi Hima Bindu",
+                "contact": "9392913645"
+            }
+        ]
+    },
+    {
+        "id": "virtual-groove",
+        "name": "Virtual Groove",
+        "poster": "Image-not-found.png",
+        "registerURL": "",
         "rulebook": "",
-        "description": "Participants are invited to join Attire Spectra, an event where creativity knows no bounds. Experience a fusion of vintage elegance, futuristic innovation, and cultural diversity on a vibrant runway. Prepare for a captivating display of artistry and live performances that redefine fashion's boundaries. Don't miss your chance to take part in this transformative celebration of style.",
-        "tagline":"",
-        "prizePool": 8000,
+        "description": "Get ready to break barriers and ignite the virtual stage with Meraz. Distance is no longer a restriction as dancers from all over come together to showcase their talent and passion. Join us for an unforgettable celebration of dance and creativity with 'Virtual Groove' featuring two captivating rounds:\n1. Preliminary Showcase : Dancers can choose any style and song to showcase their creativity and skill. Performances are evaluated on technique, creativity, and impact.\n2.Emotion Ensemble : Selected participants perform a single-take routine portraying a chosen emotion, exploring various dance forms and focusing on emotional expression.\nJoin dancers from around the world to break barriers, showcase talent, and connect through the power of dance.",
+        "tagline": ":Groove. Express. Connect: Dance beyond boundaries",
+        "prizePool": "0",
+        "mode": "Online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "Aditya Jha",
+                "contact": "7439879074"
+            }
+        ]
+    },
+    {
+        "id": "nsfw-quiz",
+        "name": "NSFW Quiz",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1l_fxNElV2klnsciBz1LaxS9Nd60u25Pc/edit?usp=sharing&ouid=114094909165928086728&rtpof=true&sd=true",
+        "description": "Get ready for Quizzotica’s most daring and fun-filled quiz yet—the NSFW Edition! This ultimate quiz in our series promises a wild ride through quirky, surprising, and spicy trivia that’s far from your typical quiz experience. We’re diving into the playful side of adult memes, intriguing facts about sex, and the internet’s infamous Rule 34. Packed with humour and unexpected twists, this quiz is perfect for anyone looking to spice things up and explore the edgy, risqué side of trivia. Think you can handle it? Join us for a bold, hilarious, and boundary-pushing challenge that’s all about having fun in ways you never thought a quiz could!",
+        "tagline": "Get ready for Quizzotica's NSFW finale—where humour meets spice! Join us for a fun, bold quiz adventure!",
+        "prizePool": "4500",
         "mode": "Offline",
         "location": "Offline",
         "POCs": [
             {
-                "name": "Vaideeka Agrawal",
-                "contact": "9453015852"
+                "name": "Srijan Mishra",
+                "contact": "7459902997"
             },
             {
-                "name": "Soni Singh",
-                "contact": "6200816214"
+                "name": "Jayant Jaiswal",
+                "contact": "9151257674"
+            }
+        ]
+    },
+    {
+        "id": "murder-mystery",
+        "name": "Murder Mystery",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": " https://docs.google.com/document/d/1h5sf5ppI2HQy16DEfkLWnBFgomPOqYOXQ3yYjTTSgzA/edit?usp=sharing",
+        "description": "Join us for an unforgettable experience of suspense, where nothing is as it seems! At Murder Mystery event, you’ll step into a world of secrets, suspects, and surprises.Every guest holds a piece of the puzzle, but who is telling the truth? A crime has been committed, and it’s up to you and your fellow teammates to unravel the clues, piece together the mystery, and uncover the murderer before the clock runs out . This is not just a game—it's an immersive experience where everyone has a role to play.",
+        "tagline": "Step Into the Shadows and Discover the Truth!",
+        "prizePool": "7000",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Sarthak Dhandhania",
+                "contact": "9810792059"
             },
             {
-                "name": "Vedansh Kapoor",
-                "contact": "8619130667"
+                "name": "Purva Jivani",
+                "contact": "9898040800"
+            }
+        ]
+    },
+    {
+        "id": "sus",
+        "name": "Shot ur Story ",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/11jQT8WbhCtv7WDRHX8EeQ6uvepoTyTk7InE_I07JDkc/edit?usp=drivesdk",
+        "description": "Get ready to bring your creativity to life at Shot ur Story, an exhilarating short film-making competition! This event challenges filmmakers of all skill levels to craft a captivating short film that tells a powerful narrative. Whether you’re an aspiring director, writer, or editor, this is your chance to showcase your storytelling talent and artistic vision.Participants will have the freedom to explore various genres and themes, all within a limited timeframe.With the opportunity to earn recognition and exciting prizes. Join us for a day of inspiration, collaboration, and cinematic magic—let’s see how you can Shot Your Story!",
+        "tagline": " Frame your story, where your imagination meets the screen.",
+        "prizePool": "12,000",
+        "mode": "Online",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Purva Jivani",
+                "contact": "9898040800"
+            },
+            {
+                "name": "Laxman Patel",
+                "contact": "7828942002"
+            }
+        ]
+    },
+    {
+        "id": "melas-quiz",
+        "name": "Mela Quiz",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1bcSiSkpemhc8CwspVQpCsnpTqai3H8w4/edit?usp=sharing&ouid=114094909165928086728&rtpof=true&sd=true",
+        "description": "A Quiz covering the diverse topics of Music, Entertainment, Literature and Arts. Join us for the event as we engage in a battle between minds over the genre of MELA. Explore the diverse realms of human creativity and passion in this quiz encompassing Music, Entertainment, Literature, Arts.. \nTest your knowledge across cultural dimensions, from identifying iconic melodies and literary masterpieces to recognizing celebrated works of art.",
+        "tagline": "Dive into the MELA Quiz: Explore the world of Music, Entertainment, Literature, and Arts!",
+        "prizePool": "4500",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Aarya Shadangule",
+                "contact": "9579013256"
+            },
+            {
+                "name": "Tancia Boro",
+                "contact": "7002108549"
+            }
+        ]
+    },
+    {
+        "id": "symphoria",
+        "name": "Symphoria",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/15UBmOykUHb0ADwvtGYeVvtwBnz4klz-2nsO0eyE3rYc/edit?usp=sharing",
+        "description": "Listen up, instrumental legends! The virtual spotlight is yours—step up and let your melodies shine in our Online Solo Instrumental Competition. Whether you rule the piano keys, shred on the guitar, or command any other instrument, this is your moment to display your talent and innovation. 🎶🎸🎹",
+        "tagline": "Hit the right notes and show the world your sound—it's time to play your way to the crown!",
+        "prizePool": "4500",
+        "mode": "Online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "Sourabh kumar",
+                "contact": "9102449434"
+            },
+            {
+                "name": "Vanam Hamsika",
+                "contact": "8639181279"
+            }
+        ]
+    },
+    {
+        "id": "in10sity",
+        "name": "In10sity",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://drive.google.com/file/d/1z0RBng6qxLjBITY_Fl5_oucdSihv4Q7_/view?usp=sharing",
+        "description": " Gather your crew and take center stage at “In10sity: Dance Beyond Boundaries,” our thrilling group dance competition! This event is your chance to unleash your passion, showcase your creativity, and bring your unique energy to the floor.\"In10sity\" is more than just a competition; it’s a celebration of movement that welcomes dancers of all backgrounds and styles. Whether you’re into hip-hop, contemporary, classical, or something entirely your own, this is your moment to break through limits and express yourself without boundaries. Let your performance light up the stage, inspiring others as we come together to celebrate the universal art of dance. Push your artistic expression to new heights—join us and dance beyond boundaries!.",
+        "prizePool": "6000",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Bhoomi Goyal",
+                "contact": "9205908661"
+            },
+            {
+                "name": "Bubli",
+                "contact": "6002846132 "
+            }
+        ]
+    },
+    {
+        "id": "cinemeraz",
+        "name": "Ciné Meraz",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/file/d/1PXac4gVXUVJKwSdQvz6NlRW3RoMmvBQk/edit?usp=docslist_api&filetype=msword",
+        "description": "CinéMeraz invites you to capture the essence of special moments with \"Meraz 2k25\" using your smartphone or camera. This unique event encourages participants to record short clips throughout the fest, creating a personalized journey. From the event's inception to its conclusion, participants curate a compilation of these clips, showcasing the vibrant experiences of \"Meraz 2k25\". Immerse yourself in the festivities, document cherished memories, and craft a compelling video that reflects the spirit of CinéMeraz. This event seamlessly blends technology with celebration, allowing you to relive and share your unforgettable moments.",
+        "tagline": "Where moments meet memories:- capture the spirit of Meraz!",
+        "prizePool": "6000",
+        "mode": "Online",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Harshal",
+                "contact": "+91 9414258313"
+            },
+            {
+                "name": "Aarav Singh Parihar",
+                "contact": "+91 70217 97576"
+            }
+        ]
+    },
+    {
+        "id": "artvile",
+        "name": "ARTVILLE",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1wpoU2Y3YfCkxjptLX1JOHvdaEnT-S-mN/edit?usp=sharing&ouid=107647147866967408175&rtpof=true&sd=true",
+        "description": "Step into a realm where creativity meets innovation at ArtVille, the ultimate illustration challenge of MERAZ! Embrace the theme, unleash your creativity, and let your illustrations captivate the audience. You’ll have the chance to showcase your unique style and vision with every stroke and curve. With a captivating theme revealed beforehand, each participant will have the chance to bring their ideas to life through stunning illustrations .\nRegister now and turn your ideas into breathtaking visuals at ArtVille!",
+        "tagline": "Unleash Your Imagination: Illustrate the Extraordinary!",
+        "prizePool": "4500",
+        "mode": "Online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "P R Raga Chandana",
+                "contact": "7908368395"
+            }
+        ]
+    },
+    {
+        "id": "abhivyakti",
+        "name": "अभिव्यक्ति",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/129zWDUBc3nU7EinDetaGF3mPvDWSKtSrw7mlvx2SZ20/edit",
+        "description": "\"अभिव्यक्ति\" एक एकल काव्य प्रतियोगिता है, जिसमें प्रतिभागी अपनी मौलिक हिंदी रचनाएँ प्रस्तुत करेंगे। प्रतियोगिता दो चरणों में आयोजित की जाएगी: पहले चरण में प्रतिभागियों की रचनाओं की गहराई, मौलिकता और शब्दों की रचनात्मकता के आधार पर चयन किया जाएगा, और अंतिम चरण में चयनित प्रतिभागियों को दर्शकों के समक्ष अपनी प्रस्तुति देने का अवसर मिलेगा। अंतिम चरण में उन्हें दर्शकों की प्रतिक्रिया, आवाज और उच्चारण, भावभंगिमा और समग्र प्रभाव के आधार पर अंक दिए जाएंगे। प्रतियोगिता में नियमों का कड़ाई से पालन करना अनिवार्य है, जिसमें प्रॉप्स या अनुचित भाषा का उपयोग वर्जित है, और प्रतिभागियों को अपनी रचना की हार्ड कॉपी जमा करनी होगी। न्यायाधीश का निर्णय अंतिम और बाध्यकारी होगा।",
+        "tagline": "स्वर में छिपी कला, शब्दों में अभिव्यक्ति की शक्ति",
+        "prizePool": "4500",
+        "mode": "Online + Offline",
+        "location": "Online + Offline",
+        "POCs": [
+            {
+                "name": "श्लोक तुलस्यान",
+                "contact": "9931085103"
+            },
+            {
+                "name": "बमबम",
+                "contact": "8521923023"
+            }
+        ]
+    },
+    {
+        "id": "dejavu",
+        "name": "DEJA VU",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1J920YhlDmnPbCzpz9KAs9XW2XjwXBKvu/edit?usp=drivesdk&ouid=109467951867640822767&rtpof=true&sd=true",
+        "description": " Deja Vu’ at Meraz offers a unique opportunity to step into the spotlight and bring iconic movie scenes to life. Whether you're recreating a beloved classic or a modern hit, this event lets you embody famous characters and capture the cinematic magic through your own lens. It's the perfect blend of creativity, culture, and nostalgia, giving you a chance to showcase your acting skills and passion for film. Join us for an unforgettable evening where the world of movies meets vibrant cultural expression. Make your mark and create lasting memories at the heart of Meraz!",
+        "tagline": " Relive the Magic: Recreating Iconic Moments from Cinema! ",
+        "prizePool": "7000",
+        "mode": "Online",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Kartikeyan Kumar",
+                "contact": "9156174763"
+            },
+            {
+                "name": "Chaitanya",
+                "contact": "9392782205"
+            }
+        ]
+    },
+    {
+        "id": "shredded-battle-of-bands",
+        "name": "SHREDDED:Battle of Bands",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1lwj5nLsraDSXMtsRoJqM4M08aq6W0U1lsgby-nJPg5U/edit#heading=h.gjdgxs",
+        "description": "Shredded, the TOP-NOTCH band competition of MERAZ 5.0 welcomes you all for a splendid evening. Compete in the battle to show your passion for music as a band and set the stage on fire. Fill the atmosphere with energy and enrage the audience’s DNA with propulsive backbeats and passionately driven guitars featuring charming voices, then be a part of this unfolding musical landscape.",
+        "tagline": "Vibe Wars: Competing Beats, Uniting Sounds!",
+        "prizePool": "22000",
+        "mode": "offline",
+        "location": "offline",
+        "POCs": [
+            {
+                "name": "Adarsh Panjwani",
+                "contact": "7898263842"
+            },
+            {
+                "name": "Ayush Panwar",
+                "contact": "8979189680"
+            },
+            {
+                "name": "Yashasvi Saxena",
+                "contact": "97924 07662"
+            }
+        ]
+    },
+    {
+        "id": "Sports_Quiz",
+        "name": "Sports Quiz",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/1vZphG1uvGZRtjANoJBzDgUdsUEqqdi2k/edit",
+        "description": "Get ready for an action-packed, fun-filled sports quiz at MERAZ, where your sports knowledge will be put to the ultimate test! Dive into thrilling rounds featuring famous sports personalities like Sachin Tendulkar, Usain Bolt, and Serena Williams. Discover record-breaking feats, legendary figures, and quirky facts. This quiz promises to be an unforgettable experience, with intriguing trivia and mind-boggling stats. It’s a first in MERAZ history, so join us, have a blast, and leave with a head full of fascinating sports facts!",
+        "tagline": "Finally, a Place to Show Off All That Couch Coaching!",
+        "prizePool": "4500",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Aditya Saini",
+                "contact": "8532832702"
+            },
+            {
+                "name": "Bobby Bhati",
+                "contact": "9873707467"
+            }
+        ]
+    },
+    {
+        "id": "mun",
+        "name": "IIT Bh-Model United Nations",
+        "poster": "Image-not-found.png",
+        "registerURL": "https: //unstop.com/p/beyond-sights-meraz-40-indian-institute-of-technology-iit-bhilai-921177?lb=i2hLKbm&utm_medium=Share&utm_source=WhatsApp",
+        "rulebook": "https://docs.google.com/document/d/1qjf2SgaR-ja78HeNmnxDW8YwDUBItUB4tjrvw-uufE0/edit?usp=drivesdk",
+        "description": " \"ITBh-MUN\" is your chance to debate, negotiate and create change! The place wherein your ideas and intellect will get their chance to create a global impact and you will provide solutions to shape the future of global policy. In MUN the participating delegates will engage in intensive debate, diplomacy and collaboration to formulate decisions on global issues that involve diplomatic skills and critical thinking. You can have a team of two for a particular arena or be a standalone participant too. Good debaters and performers will surely be awarded and appreciated.",
+        "tagline": " Where diplomacy meets global change",
+        "prizePool": "10,000",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Rohit Raghuwanshi",
+                "contact": "7999463376"
+            },
+            {
+                "name": "Kanishka Yadav",
+                "contact": "8950966178"
+            }
+        ]
+    },
+    {
+        "id": "phantom-ui-ux",
+        "name": "Phantom - UI/UX",
+        "poster": "Image-not-found.png",
+        "registerURL": "#",
+        "rulebook": "https://docs.google.com/document/d/15zUopo6Aw2xGtH1AMl3xpy1wWa01ptIV/edit?usp=drive_link&ouid=117155742661659485288&rtpof=true&sd=true",
+        "description": "Phantom is an UI/UX Design event that challenges participants to showcase their creativity and innovation in designing user interfaces. The participants are expected to design an app that enhances productivity, and provides an exceptional user experience across various devices.",
+        "tagline": "Crafting Experiences, Shaping Interfaces: Where Design Meets Innovation",
+        "prizePool": "4500",
+        "mode": "Online",
+        "location": "Online",
+        "POCs": [
+            {
+                "name": "Aditya Kotha",
+                "contact": "6304328500"
+            },
+            {
+                "name": "Hemanth kumar Reddy",
+                "contact": "9398481212"
             }
         ]
     }

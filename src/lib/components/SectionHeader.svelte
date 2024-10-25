@@ -6,11 +6,14 @@
 
 <div class="root">
   <div>
-    <img src="/assets/header_icon.svg" class="icon" alt="" />
+    <img src="/assets/header_icon.png" class="icon" alt="" />
   </div>
   <h1 class="heading-text" style="padding-left:{padding}rem;">
     {name}
   </h1>
+  <div>
+    <img src="/assets/header_icon.png" class="icon" alt="" />
+  </div>
 </div>
 
 <style lang="scss">
@@ -20,8 +23,7 @@
     justify-content: center;
     font-family: "BluuNext";
     max-width: 100vw;
-
-    color: #ffbe4a;
+    color:#7CC7FF;
   }
   .icon{
     position: relative;

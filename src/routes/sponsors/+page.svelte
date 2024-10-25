@@ -4,7 +4,8 @@
 	import SubSectionHeader from '$lib/components/SubSectionHeader.svelte';
 	import SponsorCard from '$lib/components/SponsorCard.svelte';
 	import { collapsingNavbar } from '$lib/stores';
-
+	import HangingLanternLeft from '$lib/components/Hanging_lantern_left.svelte';
+	import HangingLanternRight from '$lib/components/Hanging_lantern_right.svelte';
 	$collapsingNavbar = false;
 </script>
 
@@ -20,6 +21,10 @@
 </svelte:head>
 
 <div class="sponsor-main-container">
+
+
+	<HangingLanternLeft/>
+	<HangingLanternRight/>
 	<div class="sponsor-heading">
 		<SectionHeader name="Sponsors" />
 	</div>
@@ -55,10 +60,11 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		background-size: cover;
+		background-size: contain;
 		padding-bottom: 9.563rem;
 		background-position: center;
 		width: 100%;
+
 	}
 
 	//.sponsors-container {
@@ -83,14 +89,16 @@
 		margin-top: 3.188rem;
 		margin-bottom: 2.25rem;
 		font-family: 'Yusei Magic', BluuNext;
-		color: #ffbe4a;
+		color: #7CC7FF;
 		display: inline-block;
 		align-content: center;
+		text-transform: uppercase;
+		text-decoration: underline;
 	}
 
 	.sponsor-heading {
-		margin-top: 6.25rem;
-		color: #ffbe4a;
+		margin-top: 1rem;
+		color: #7CC7FF;
 		font-family: BluuNext, 'Yusei Magic';
 	}
 

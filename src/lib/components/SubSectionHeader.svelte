@@ -17,7 +17,7 @@
 		justify-content: center;
 		font-family: 'Yusei Magic';
 		max-width: 100vw;
-		color: #ffbe4a;
+		color:#7CC7FF;
 	}
 
 
